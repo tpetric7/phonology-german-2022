@@ -1,0 +1,54 @@
+# Einführung {#sec-einfuhrung}
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/Diapozitiv6.PNG")
+```
+
+In diesem Einführungskurs machen wir Sie mit grundlegenden Methoden zur Erfassung von linguistischen Merkmalen in deutschen (und in einigen Abschnitten auch mit slowenischen) Texten bekannt.
+
+Diesen Kurs beginnen wir mit Frage, wozu wir überhaupt über Sprache reden und *zu welchem Zweck über Phonologie?*
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/Diapozitiv7.PNG")
+```
+
+Da sich mehrere Wissenschaften mit Sprache und folglich auch mit Texten auseinandersetzen, ist es sinnvoll, Textlinguistik von anderen wissenschaftlichen Disziplinen abzugrenzen, um den *Gegenstand {@sec-gegenstand} der Phonologie* (als Bestandteil der Systemlinguistik) besser erkennen zu können.
+
+In jeder wissenschaftlichen Disziplin werden grundlegende Einheiten definiert. In der Phonologie wird oft das *Phonem* als maßgebliche Basiseinheit und Ausgangspunkt gewählt. Wie jede linguistische Einheit, kann man Phoneme verschiedentlich definieren. Andere grundlegende Einheiten der Phonologie, die in diesem Einführungsbuch definiert, beschrieben und anhand von exemplarischen Analysen veranschaulicht werden, sind z.B. *Phon, distinktives Merkmal, Silbe und Äußerung*.[^intro-1]
+
+[^intro-1]: Dieses Buch wurde mit `Quarto` <https://quarto.org/docs/books/> zusammengestellt.
+
+Hinweise[^intro-2]:
+
+[^intro-2]: Clipart von <https://www.clipartmax.com/>
+
+::: rmdnote
+Das ist eine Definition (rmdnote).
+:::
+
+::: rmdtip
+Das ist ein Tip oder eine Info (rmdtip).
+:::
+
+::: rmdrobot
+Das ist ein Arbeitsvorschlag (rmdrobot).
+:::
+
+::: rmdrstudio
+Das ist der RStudio Logotyp (rmdrstudio).
+:::
+
+::: rmdwarning
+Das ist eine Warnung (rmdwarning).
+:::
+
+::: rmderror
+Das ist eine Fehlermeldung (rmderror).
+:::
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown', "tidyverse", "udpipe"
+), 'packages.bib')
+```

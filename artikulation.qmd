@@ -1,0 +1,12 @@
+# Artikulatorische Phonetik {#sec-artikulation}
+
+Im Fremdsprachenunterricht schenken wir der artikulatorischen Phonetik gewöhnlich große Aufmerksamkeit. 
+
+:::rdmnote
+
+Die **Artikulation** bezieht sich auf intentional gesteuerte Bewegungen der Sprechwerkzeuge zur Bildung von Sprachlauten. [@bussmann1990lexikon : 99]  
+
+:::
+
+Im Rahmen der artikulatorischen Phonetik beschreiben wir also, wie die deutschen Sprachlaute im Einzelnen gebildet werden. Dazu benötigen wir einige grundlegende Kenntnisse anderer Wissenschaften, und zwar insbesondere der *Anatomie* und der *Physik*. 
+

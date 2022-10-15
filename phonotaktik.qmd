@@ -1,0 +1,28 @@
+# Phonotaktik {#sec-phonotaktik}
+
+**Silbentypen in den Sprachen der Welt** (Maddieson, in: Wals 2005).
+
+-   Die einzige Silbenart, die **in jeder Sprache** vorzukommen scheint, ist **CV**, dh eine Silbe, die aus nur einem Konsonanten vor einem Vokal besteht. In relativ wenigen Sprachen ist dies die einzige erlaubte Silbenart. Zu diesen Sprachen gehören Hawaiianisch und Mba (Adamawa-Ubangian, Niger-Kongo; Demokratische Republik Kongo). Häufiger findet man Sprachen, in denen der Anfangskonsonant nicht erlaubt ist, wie zum Beispiel in Fidschian, Igbo (Niger-Kongo; Nigeria) und Yareba (Yareban; Papua-Neuguinea). Für diese Sprachen kann die kanonische Silbe als (C)V dargestellt werden, wobei die Klammern angeben, dass ein Anfangskonsonant ein optionales Element ist. Wenn eine Sprache nur Silben zulässt, die in diese Vorlage passen, spricht man von einer einfachen Silbenstruktur.
+
+-   Eine etwas **aufwändigere Silbenstruktur** verfügt über einen weiteren Konsonanten, entweder am Ende der Silbe oder am Anfang, was die Strukturen CVC und CCV ergibt; beides sind mäßige Erweiterungen des einfachen CV-Silbentyps. Es lohnt sich jedoch, zwischen zwei Arten von zweigliedrigen Konsonantenketten zu unterscheiden. In einer sehr großen Anzahl von Sprachen sind zwar zwei Konsonanten am Anfang einer Silbe erlaubt, es gibt jedoch strenge Grenzen für die zulässigen Kombinationen. Der zweite von zwei Konsonanten ist gewöhnlich darauf beschränkt, einer aus einer kleinen Menge zu sein, die entweder zur Klasse der Liquide oder der Klasse der Gleitlaute gehört. Die Liquide sind die Laute, die üblicherweise durch die Buchstaben \<r\> und \<l\> dargestellt werden, während Glides vokalähnliche Konsonanten sind, wie die am Anfang der slowenischen Wörter \<vlak\> und \<jarem\>. Liquiden und Gleitlauten ist gemeinsam, dass ihre Bildung einen relativ ungehinderten Luftstrom aus dem Mund ermöglicht. Sprachen, die einen einzelnen Konsonanten nach dem Vokal zulassen und/oder zwei Konsonanten vor dem Vokal zulassen, sich aber nur an die oben beschriebenen üblichen zweigliedrigen Konsonantenmuster halten, werden als **mäßig komplexe Silbenstruktur** gezählt. Ein Beispiel ist Darai (Indoarisch; Nepal). Hier ist CCVC die am stärksten erlaubte Silbe, wie in /bwak/ „(sein) Vater", aber der einzig mögliche zweite Konsonant in einer Folge von zwei ist /w/.
+
+-   Sprachen, die freiere Kombinationen von zwei Konsonanten in der Position vor einem Vokal oder drei oder mehr Konsonanten in dieser Anfangsposition und/oder zwei oder mehr Konsonanten in der Position nach dem Vokal zulassen, werden als **komplexe Silbenstruktur** klassifiziert. Ein offensichtliches Beispiel für eine komplexe Struktur ist das Englische, dessen kanonisches Silbenmuster oft als (C)(C)(C)V(C)(C)(C)(C) zitiert wird. Die volle Ausdehnung des Musters findet nur in wenigen Wörtern statt, wie zum Beispiel \<strengths\>, wenn sie /strENkTs/ ausgesprochen werden, aber es ist relativ einfach, Silben zu finden, die mit drei Konsonanten beginnen oder mit vier enden, wie in \<split\> und \<texts\> (/tEksts/).
+
+-   Die Einteilung von Sprachen in drei Kategorien der Silbenkomplexität (einfach, moderat und komplex) übersieht natürlich viele andere Fragen der Segmentverteilung (zum Beispiel, ob die Silben am Anfang und am Ende von Wörtern die gleichen oder andere Einschränkungen haben als die wortinternen) oder wichtige Unterschiede außer Acht lassen, wie selten oder häufig die komplexeren Silbentypen in einer bestimmten Sprache vorkommen. Wenn zum Beispiel einige Arten von Konsonantensequenzen erst kürzlich durch das Entlehnen internationaler Wörter (wie Sport oder Golf) in eine Sprache eingeführt wurden, wird die Sprache nach dem, was im etablierteren Vokabular vorkommt, klassifiziert. Trotz ihres zusammenfassenden Charakters bietet die Drei-Wege-Klassifikation eine sinnvolle Gruppierung mit interessanten geografischen Merkmalen.
+
+-   **Slowenisch** und **Deutsch** lassen sich wie Englisch in die Gruppe der Sprachen mit **komplexen Silbenstrukturen** einordnen.
+
+|     | **Complexity of Syllable structure**  |     |
+|:---:|:-------------------------------------:|:---:|
+| 1\. |       Simple syllable structure       | 61  |
+| 2\. | Moderately complex syllable structure | 274 |
+| 3\. |      Complex syllable structure       | 150 |
+| \@  |                 total                 | 485 |
+
+[Wals Online](https://wals.info/)
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/01b_NSG_Intro_2020-10-07/wals_syllable_structure.png")
+```
+

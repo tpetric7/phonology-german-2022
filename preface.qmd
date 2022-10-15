@@ -1,0 +1,5 @@
+# Vorwort {#sec-vorwort .unnumbered}
+
+Dieses Buch ist eine Einführung in die Phonologie der deutschen Sprache, und zwar unter besonderer Berücksichtigung des Slowenischen im Vergleich zum Deutschen.
+
+`Quarto Book` <https://quarto.org/>
