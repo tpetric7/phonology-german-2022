@@ -1,3 +1,213 @@
 # Phonologische Prozesse
 
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_2.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_3.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_4.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_5.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_6.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_7.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_8.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_9.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_10.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_11.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_12.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_13.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_14.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_15.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_16.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_17.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_18.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_19.PNG")
+```
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_20.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_21.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_22.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_23.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_24.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_25.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_26.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_27.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_28.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_29.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_30.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_31.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_32.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_33.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_34.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_35.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_36.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_37.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_38.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_39.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_40.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_41.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_42.PNG")
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(
+  "pictures/prozesse/prozesse_43.PNG")
+```
 
