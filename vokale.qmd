@@ -1,2 +1,20 @@
-# Vokale im Einzelnen [#sec-vokale]
+# Vokale im Einzelnen {#sec-vokale}
+
+```{r}
+knitr::include_graphics("pictures/sprachlabor/Phonetikuebungen_S01_Page17.png")
+```
+
+
+```{r}
+knitr::include_graphics("pictures/sprachlabor/Phonetikuebungen_S01_Page18.png")
+```
+
+
+```{r}
+knitr::include_graphics("pictures/sprachlabor/Phonetikuebungen_S01_Page19.png")
+```
+
+```{r}
+knitr::include_graphics("pictures/sprachlabor/Phonetikuebungen_S01_Page20.png")
+```
 

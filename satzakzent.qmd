@@ -1,2 +1,18 @@
-# Akzentuierung von Phrasen [#sec-satzakzent]
+# Akzentuierung von Phrasen {#sec-satzakzent}
+
+```{r}
+knitr::include_graphics("pictures/sprachlabor/Phonetikuebungen_S01_Page4.png")
+```
+
+```{r}
+knitr::include_graphics("pictures/sprachlabor/Phonetikuebungen_S01_Page5.png")
+```
+
+```{r}
+knitr::include_graphics("pictures/sprachlabor/Phonetikuebungen_S01_Page6.png")
+```
+
+```{r}
+knitr::include_graphics("pictures/sprachlabor/Phonetikuebungen_S01_Page7.png")
+```
 

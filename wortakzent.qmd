@@ -1,2 +1,13 @@
-# Wortakzentuierung [#sec-wortakzent]
+# Wortakzentuierung {#sec-wortakzent}
 
+```{r}
+knitr::include_graphics("pictures/sprachlabor/Phonetikuebungen_S01_Page1.png")
+```
+
+```{r}
+knitr::include_graphics("pictures/sprachlabor/Phonetikuebungen_S01_Page2.png")
+```
+
+```{r}
+knitr::include_graphics("pictures/sprachlabor/Phonetikuebungen_S01_Page3.png")
+```

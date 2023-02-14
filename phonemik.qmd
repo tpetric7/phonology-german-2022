@@ -1,4 +1,4 @@
-# Aufgabenbereich der Phonemik
+# Aufgabenbereich der Phonemik {#sec-phonemik}
 
 Die Phonemik erforscht Lautsysteme. Ihre Aufgabe besteht also darin, "die Beziehungen der Laute einer gegebenen Sprache zueinander zu analysieren, um so das Lautsystem zu beschreiben." (SSM 1: 2) In der Tagmemik, einer wichtigen Richtung des amerikanischen Strukturalismus (Hauptvertreter K. L. Pike), werden alle sprachlichen Einheiten unter drei Gesichtspunkten untersucht:
 

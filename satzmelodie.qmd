@@ -1,2 +1,39 @@
-# Melodiebewegungen in Äußerungen [#sec-satzmelodie]
+# Melodiebewegungen in Äußerungen {#sec-satzmelodie}
+
+```{r}
+knitr::include_graphics("pictures/sprachlabor/Phonetikuebungen_S01_Page8.png")
+```
+
+```{r}
+knitr::include_graphics("pictures/sprachlabor/Phonetikuebungen_S01_Page9.png")
+```
+
+```{r}
+knitr::include_graphics("pictures/sprachlabor/Phonetikuebungen_S01_Page10.png")
+```
+
+```{r}
+knitr::include_graphics("pictures/sprachlabor/Phonetikuebungen_S01_Page11.png")
+```
+
+```{r}
+knitr::include_graphics("pictures/sprachlabor/Phonetikuebungen_S01_Page12.png")
+```
+
+```{r}
+knitr::include_graphics("pictures/sprachlabor/Phonetikuebungen_S01_Page13.png")
+```
+
+```{r}
+knitr::include_graphics("pictures/sprachlabor/Phonetikuebungen_S01_Page14.png")
+```
+
+```{r}
+knitr::include_graphics("pictures/sprachlabor/Phonetikuebungen_S01_Page15.png")
+```
+
+```{r}
+knitr::include_graphics("pictures/sprachlabor/Phonetikuebungen_S01_Page16.png")
+```
+
 

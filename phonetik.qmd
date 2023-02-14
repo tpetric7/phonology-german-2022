@@ -1,4 +1,4 @@
-# Aufgabenbereich der Phonetik
+# Aufgabenbereich der Phonetik {#sec-phonetik}
 
 Die Phonetik ist eine Naturwissenschaft auf der Grundlage von Anatomie, Physiologie, Physik (Akustik) und Mathematik.
 

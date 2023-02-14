@@ -1,3 +1,192 @@
-# Prosodie
+# Prosodie {#sec-prosodie}
 
+## Terminologie
+
+Der Inhalt der älteren Unterrichstsfolien Petrič (2004) beruht auf Neppert & Pétursson (1992: 133-174), eine Folie auf Rausch & Rausch (1993) und zwei Folien auf der Präsentation von Benno Peters <https://www.isfas.uni-kiel.de/de/linguistik/studium-und-pruefung/Master/materialien-fuer-auswaertige/prosodie/Prosodie_Vorlesung_Grundlagen.pdf>. 
+
+```{r}
+knitr::include_graphics("pictures/prosodie/06_Prosodie_Folie_2005-06_R_Page1.png")
+```
+
+```{r}
+knitr::include_graphics("pictures/prosodie/06_Prosodie_Folie_2005-06_R_Page2.png")
+```
+
+```{r}
+knitr::include_graphics("pictures/prosodie/06_Prosodie_Folie_2005-06_R_Page3.png")
+```
+
+## Intonation
+
+```{r}
+knitr::include_graphics("pictures/prosodie/06_Prosodie_Folie_2005-06_R_Page4.png")
+```
+
+```{r}
+knitr::include_graphics("pictures/prosodie/06_Prosodie_Folie_2005-06_R_Page5.png")
+```
+
+```{r}
+knitr::include_graphics("pictures/prosodie/06_Prosodie_Folie_2005-06_R_Page6.png")
+```
+
+```{r}
+knitr::include_graphics("pictures/prosodie/06_Prosodie_Folie_2005-06_R_Page7.png")
+```
+
+## Akzent
+
+```{r}
+knitr::include_graphics("pictures/prosodie/06_Prosodie_Folie_2005-06_R_Page8.png")
+```
+
+```{r}
+knitr::include_graphics("pictures/prosodie/06_Prosodie_Folie_2005-06_R_Page9.png")
+```
+
+## Emphase
+
+```{r}
+knitr::include_graphics("pictures/prosodie/06_Prosodie_Folie_2005-06_R_Page10.png")
+```
+
+## Kontrastakzent vs. Emphase
+
+```{r}
+knitr::include_graphics("pictures/prosodie/06_Prosodie_Folie_2005-06_R_Page11.png")
+```
+
+## Quantität
+
+```{r}
+knitr::include_graphics("pictures/prosodie/06_Prosodie_Folie_2005-06_R_Page12.png")
+```
+
+```{r}
+knitr::include_graphics("pictures/prosodie/06_Prosodie_Folie_2005-06_R_Page13.png")
+```
+
+```{r}
+knitr::include_graphics("pictures/prosodie/06_Prosodie_Folie_2005-06_R_Page14.png")
+```
+
+```{r}
+knitr::include_graphics("pictures/prosodie/06_Prosodie_Folie_2005-06_R_Page15.png")
+```
+
+## Paralinguistische prosodische Merkmale
+
+```{r}
+knitr::include_graphics("pictures/prosodie/06_Prosodie_Folie_2005-06_R_Page16.png")
+```
+
+```{r}
+knitr::include_graphics("pictures/prosodie/06_Prosodie_Folie_2005-06_R_Page17.png")
+```
+
+
+## Wortakzentuierung
+
+```{r}
+knitr::include_graphics("pictures/05b_Wortbetonung_Page1.png")
+```
+
+```{r}
+knitr::include_graphics("pictures/05b_Wortbetonung_Page2.png")
+```
+
+```{r}
+knitr::include_graphics("pictures/05b_Wortbetonung_Page2.png")
+```
+
+
+**Akzentregeln** für zwei- und dreigliedrige Determinativkomposita mit substantivischen Bestandteilen gemäß *T. Alan Hall*(2011: 293-294):   
+
+Bei drei- und mehrgliedrigen Komposita (Zusammensetzungen) müssen wir den morphologischen Aufbau, aber auch semantische Gesichtspunkte berücksichtigen, um die komplexen Wörter entsprechend zu zerlegen. 
+
+Der Hauptakzent in (25) ist vorhersagbar: Er befindet sich auf der prominentesten Silbe im *verzweigenden* Bestandteil.   
+
+(25a) *Haus*tür-schlüssel, *Blu*menkohl-suppe   
+(25b) Landes-*ar*beitsamt, Schienen-er*satz*verkehr   
+
+Die Platzierung des Hauptakzents (25) ist mit den Akzentregeln in (26) vorhersagbar:   
+
+(26a) In einem Kompositum A+B, in dem weder A noch B verzweigt, ist
+Bestandteil A stark.
+(26b) In einem Kompositum A+B ist die Komponente B dann und nur dann
+stark, wenn B verzweigt.
+
+Regel (26a):  z.B. *Bahnhof* (weder A noch B verzweigen).    
+Regel (26b) z.B. dreigliedrigen Komposita in (25). 
+
+Akzentregel (26b) gewährleistet Hauptakzentuierung des zweite Bestandteils auch in solchen Komposita wie z.B. Atomwaffensperrvertrag, in denen beide Bestandteile verzweigen.   
+
+Diese Akzentregeln haben Ausnahmen (z.B. Zen*tral*-flughafen).   
+
+----
+
+## Akzentuierung von Phrasen
+
+```{r}
+knitr::include_graphics("pictures/satzakzentuierung/satzakzent_Diapozitiv1.PNG")
+```
+```{r}
+knitr::include_graphics("pictures/satzakzentuierung/satzakzent_Diapozitiv2.PNG")
+```
+
+```{r}
+knitr::include_graphics("pictures/satzakzentuierung/satzakzent_Diapozitiv3.PNG")
+```
+
+```{r}
+knitr::include_graphics("pictures/satzakzentuierung/satzakzent_Diapozitiv4.PNG")
+```
+
+```{r}
+knitr::include_graphics("pictures/satzakzentuierung/satzakzent_Diapozitiv5.PNG")
+```
+
+```{r}
+knitr::include_graphics("pictures/satzakzentuierung/satzakzent_Diapozitiv6.PNG")
+```
+
+```{r}
+knitr::include_graphics("pictures/satzakzentuierung/satzakzent_Diapozitiv7.PNG")
+```
+
+```{r}
+knitr::include_graphics("pictures/satzakzentuierung/satzakzent_Diapozitiv8.PNG")
+```
+
+```{r}
+knitr::include_graphics("pictures/satzakzentuierung/satzakzent_Diapozitiv9.PNG")
+```
+
+```{r}
+knitr::include_graphics("pictures/satzakzentuierung/satzakzent_Diapozitiv10.PNG")
+```
+
+```{r}
+knitr::include_graphics("pictures/satzakzentuierung/satzakzent_Diapozitiv11.PNG")
+```
+
+```{r}
+knitr::include_graphics("pictures/satzakzentuierung/satzakzent_Diapozitiv12.PNG")
+```
+
+```{r}
+knitr::include_graphics("pictures/satzakzentuierung/satzakzent_Diapozitiv13.PNG")
+```
+
+```{r}
+knitr::include_graphics("pictures/satzakzentuierung/satzakzent_Diapozitiv14.PNG")
+```
+
+```{r}
+knitr::include_graphics("pictures/satzakzentuierung/satzakzent_Diapozitiv15.PNG")
+```
+
+```{r}
+knitr::include_graphics("pictures/satzakzentuierung/satzakzent_Diapozitiv16.PNG")
+```
 

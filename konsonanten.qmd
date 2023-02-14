@@ -1,2 +1,19 @@
-# Konsonanten im Einzelnen [#sec-konsonanten]
+# Konsonanten im Einzelnen {#sec-konsonanten}
+
+```{r}
+knitr::include_graphics("pictures/sprachlabor/Phonetikuebungen_S01_Page21.png")
+```
+
+```{r}
+knitr::include_graphics("pictures/sprachlabor/Phonetikuebungen_S01_Page22.png")
+```
+
+```{r}
+knitr::include_graphics("pictures/sprachlabor/Phonetikuebungen_S01_Page23.png")
+```
+
+```{r}
+knitr::include_graphics("pictures/sprachlabor/Phonetikuebungen_S01_Page24.png")
+```
+
 

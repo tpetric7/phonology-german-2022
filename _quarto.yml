@@ -29,11 +29,13 @@ book:
 
     - part: "Aussprachepraxis im Sprachlabor"
       chapters: 
+      - sprachlabor.qmd
       - wortakzent.qmd
       - satzakzent.qmd
       - satzmelodie.qmd
       - vokale.qmd
       - konsonanten.qmd
+      - komplex.qmd
     - summary.qmd
     - references.qmd
   page-navigation: true

@@ -1,0 +1,18 @@
+# Sprachlabor {#sec-sprachlabor}
+
+```{r}
+knitr::include_graphics("pictures/sprachlabor/Sprachlaboruebungen_2022_Page1.png")
+```
+
+```{r}
+knitr::include_graphics("pictures/sprachlabor/Sprachlaboruebungen_2022_Page2.png")
+```
+
+```{r}
+knitr::include_graphics("pictures/sprachlabor/Sprachlaboruebungen_2022_Page3.png")
+```
+
+```{r}
+knitr::include_graphics("pictures/sprachlabor/Sprachlaboruebungen_2022_Page4.png")
+```
+
